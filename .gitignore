@@ -6,9 +6,6 @@ __pycache__/
 venv/
 .env
 
-models/*.pth
-models/*.npy
-
 data_raw
 data_split/
 enroll_data/
